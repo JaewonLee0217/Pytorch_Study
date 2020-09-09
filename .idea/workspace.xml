@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5151c03b-39a7-4999-846b-65ad88779732" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/.idea/Pytorch_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/.idea/Pytorch_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/CheckPytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/CheckPytorch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytorch_project/Torchvision_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_project/Torchvision_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/.idea/scientificProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/.idea/scientificProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/Torchvision.py" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/Torchvision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scientificProject/video_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/scientificProject/video_test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h73XEbzMSD7WrF8XsBr4BuRKQJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearningPython" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5151c03b-39a7-4999-846b-65ad88779732" name="Default Changelist" comment="" />
+      <created>1599348340424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599348340424</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="179" key="FileChooserDialogImpl" timestamp="1599348373967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599348373967" />
+  </component>
+</project>
