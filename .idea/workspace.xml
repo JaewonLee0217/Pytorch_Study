@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5151c03b-39a7-4999-846b-65ad88779732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code_study/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pytorch_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pytorch_Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_study/Autograd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_study/Numpy_networking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_study/Pytorch_2layers_predict_randomd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code_study" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -59,7 +60,78 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Documents\GitHub\Pytorch_Study\code_study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Autograd">
+    <configuration name="Autograd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_study/Autograd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numpy_networking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_study/Numpy_networking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pytorch_2layers_predict_randomd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytorch_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_study/Pytorch_2layers_predict_randomd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytorch_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +156,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Autograd" />
+        <item itemvalue="Python.Pytorch_2layers_predict_randomd" />
+        <item itemvalue="Python.Numpy_networking" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -99,7 +174,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599348340424</updated>
-      <workItem from="1610515487121" duration="6479000" />
+      <workItem from="1610515487121" duration="7096000" />
+      <workItem from="1611644817905" duration="5114000" />
     </task>
     <servers />
   </component>
@@ -116,28 +192,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="723" height="322" key="GridCell.Tab.0.bottom" timestamp="1610521338272">
+    <state x="801" y="167" key="FileChooserDialogImpl" timestamp="1610523513137">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610521338272" />
-    <state width="723" height="322" key="GridCell.Tab.0.center" timestamp="1610521338272">
+    <state x="801" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610523513137" />
+    <state width="723" height="324" key="GridCell.Tab.0.bottom" timestamp="1611668371733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="322" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610521338272" />
-    <state width="723" height="322" key="GridCell.Tab.0.left" timestamp="1610521338272">
+    <state width="723" height="324" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611668371733" />
+    <state width="723" height="324" key="GridCell.Tab.0.center" timestamp="1611668371733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="322" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610521338272" />
-    <state width="723" height="322" key="GridCell.Tab.0.right" timestamp="1610521338272">
+    <state width="723" height="324" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611668371733" />
+    <state width="723" height="324" key="GridCell.Tab.0.left" timestamp="1611668371733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="322" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610521338272" />
-    <state x="232" y="69" key="SettingsEditor" timestamp="1610515690108">
+    <state width="723" height="324" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611668371733" />
+    <state width="723" height="324" key="GridCell.Tab.0.right" timestamp="1611668371733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="232" y="69" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610515690108" />
+    <state width="723" height="324" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611668371733" />
+    <state x="232" y="69" key="SettingsEditor" timestamp="1611664944246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="232" y="69" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611664944246" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611665862726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611665862726" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -151,6 +236,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pytorch_Study$Pytorch_2layers_predict_randomd.coverage" NAME="Pytorch_2layers_predict_randomd Coverage Results" MODIFIED="1611666660484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_study" />
     <SUITE FILE_PATH="coverage/Pytorch_Study$main.coverage" NAME="main Coverage Results" MODIFIED="1610521338262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_study" />
+    <SUITE FILE_PATH="coverage/Pytorch_Study$Autograd.coverage" NAME="Autograd Coverage Results" MODIFIED="1611668371700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_study" />
+    <SUITE FILE_PATH="coverage/Pytorch_Study$Numpy_networking.coverage" NAME="Numpy_networking Coverage Results" MODIFIED="1611665607592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code_study" />
   </component>
 </project>
