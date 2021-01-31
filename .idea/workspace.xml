@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5151c03b-39a7-4999-846b-65ad88779732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code_study/Autograd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_study/Numpy_networking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_study/Pytorch_2layers_predict_randomd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code_study" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AI-Cost-Management-and-Prediction-Platform" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -175,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599348340424</updated>
       <workItem from="1610515487121" duration="7096000" />
-      <workItem from="1611644817905" duration="5114000" />
+      <workItem from="1611644817905" duration="5821000" />
     </task>
     <servers />
   </component>
@@ -195,10 +192,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="801" y="167" key="FileChooserDialogImpl" timestamp="1610523513137">
+    <state x="801" y="167" key="FileChooserDialogImpl" timestamp="1611838974674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="801" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610523513137" />
+    <state x="801" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611838974674" />
     <state width="723" height="324" key="GridCell.Tab.0.bottom" timestamp="1611668371733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
